@@ -19,5 +19,4 @@ abstract class OOP {
     }
 
     abstract void print();
-    abstract void total();
 }
